@@ -9,6 +9,9 @@ function App() {
         {/* <Counter /> */}
 
         <p>{/* Edit <code>src/App.js</code> and save to reload. */}</p>
+        <h1>testing 1</h1>
+        <h2>testing 3</h2>
+        <h3>testing again</h3>
       </header>
     </div>
   );
