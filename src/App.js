@@ -12,6 +12,8 @@ function App() {
         <h1>testing 1</h1>
         <h2>testing 3</h2>
         <h3>testing again</h3>
+        <h1>testing again</h1>
+        <h2>and again</h2>
       </header>
     </div>
   );
